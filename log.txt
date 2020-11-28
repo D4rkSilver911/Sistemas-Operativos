@@ -1,0 +1,6 @@
+Evento ocorreu as:21:37:55
+Encomenda nº1 (Req_1) recebida pela central às: 21:38:03. 
+Encomenda nº1 (Req_1) enviada ao drone 2 às: 21:38:03. 
+Armazem[6262] terminou as:21:38:05
+Armazem[6263] terminou as:21:38:05
+Evento terminou as:21:38:05
